@@ -6,7 +6,21 @@
 	<version>0.0.1-SNAPSHOT</version>
 	<name>Cthulhu</name>
 	<packaging>pom</packaging>
-	<description>Eater of worlds.  All that shit.</description>
+	<description>All your horror are belong to us</description>
+    
+    <url>https://github.com/Hellblazer/Cthulhu</url>
+
+    <licenses>
+        <license>
+            <name>GNU AFFERO GENERAL PUBLIC LICENSE, Version 3</name>
+            <url>https://www.gnu.org/licenses/agpl.txt</url>
+            <distribution>repo</distribution>
+        </license>
+    </licenses>
+
+    <scm>
+        <url>https://github.com/Hellblazer/Pinkie.git</url>
+    </scm>
 	
 	<dependencyManagement>
 		<dependencies>
@@ -45,20 +59,6 @@
 	<modules>
 		<module>framework</module>
 	</modules>
-	
-	<url>https://github.com/Hellblazer/Pinkie</url>
-
-	<licenses>
-		<license>
-			<name>Apache License, Version 2.0</name>
-			<url>http://www.apache.org/licenses/LICENSE-2.0</url>
-			<distribution>repo</distribution>
-		</license>
-	</licenses>
-
-	<scm>
-		<url>https://github.com/Hellblazer/Pinkie.git</url>
-	</scm>
 
 	<repositories>
 		<repository>

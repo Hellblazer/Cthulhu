@@ -1,4 +1,4 @@
 Cthuluhu
 ========
 
-All your security are belong to us
+All your horror are belong to us

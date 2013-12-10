@@ -1,4 +1,4 @@
 Cthuluhu
 ========
 
-The eater of worlds.  All that shit
+All your security are belong to us
